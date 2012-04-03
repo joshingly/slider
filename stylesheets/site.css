@@ -1,0 +1,28 @@
+div#slider {
+  border: 1px solid black;
+  width: 558px;
+  overflow: auto;
+
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  border-radius: 14px;
+}
+
+div#slider div#box img {
+  margin-left: 10px;
+  margin-right: 10px;
+
+  padding-top: 9px;
+}
+
+div#slider a:first-child {
+  margin-right:15px;
+}
+
+div#slider a:last-child {
+  margin-left:15px;
+}
+
+div#slider a, div#slider div {
+  float: left;
+}
