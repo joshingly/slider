@@ -16,7 +16,6 @@
       this.viewable = images.slice(0,5);
       this.notViewable = images.slice(5, images.length);
 
-      this.preload(this.viewable);
       this.preload(this.notViewable);
 
       this.output();
