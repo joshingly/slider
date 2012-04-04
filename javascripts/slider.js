@@ -1,6 +1,3 @@
-/*jshint browser:true devel:true */
-/*global Slider:true */
-
 (function() {
   "use strict";
 

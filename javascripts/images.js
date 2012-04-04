@@ -1,5 +1,3 @@
-/*jshint browser:true devel:true */
-
 (function() {
   "use strict";
   var Slider, Images;
